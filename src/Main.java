@@ -3,7 +3,7 @@ public class Main {
         task1();
         task2();
         task3();
-        task4();
+
     }
         public static void task1 () {
             // Задание 1
@@ -28,8 +28,7 @@ public class Main {
             String fullName = " Иванов Семён Семёнович ".replace('ё', 'е');
             System.out.println("Данные ФИО сотрудника — " + fullName);
         }
-        public static void task4 () {
-            // Задание 4
 
-        }
+
+
 }
